@@ -151,6 +151,10 @@ public class Pokemon {
         this.name = theName;
     }
 
+    public PokemonType getType() {
+        return pokeType;
+    }
+
 
 
     /**
